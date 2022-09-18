@@ -1,5 +1,5 @@
 // Grasscutter 3.0.0 GM Handbook
-// Created 2022/09/17 23:11:05
+// Created 2022/09/18 15:12:34
 
 // Commands
        account : ユーザーアカウントを変更
